@@ -1,0 +1,8 @@
+notebook
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+huggingface-hub
+datasets
